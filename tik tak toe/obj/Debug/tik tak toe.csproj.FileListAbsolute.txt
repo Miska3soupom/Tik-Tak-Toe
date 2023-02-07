@@ -1,0 +1,16 @@
+C:\Users\misha\OneDrive\Рабочий стол\Лекции\сишка\tik tak toe\tik tak toe\obj\Debug\tik tak toe.csproj.AssemblyReference.cache
+C:\Users\misha\OneDrive\Рабочий стол\Лекции\сишка\tik tak toe\tik tak toe\obj\Debug\tik tak toe.csproj.SuggestedBindingRedirects.cache
+C:\Users\misha\OneDrive\Рабочий стол\Лекции\сишка\tik tak toe\tik tak toe\obj\Debug\MainWindow.g.cs
+C:\Users\misha\OneDrive\Рабочий стол\Лекции\сишка\tik tak toe\tik tak toe\obj\Debug\App.g.cs
+C:\Users\misha\OneDrive\Рабочий стол\Лекции\сишка\tik tak toe\tik tak toe\obj\Debug\tik tak toe_MarkupCompile.cache
+C:\Users\misha\OneDrive\Рабочий стол\Лекции\сишка\tik tak toe\tik tak toe\obj\Debug\tik tak toe_MarkupCompile.lref
+C:\Users\misha\OneDrive\Рабочий стол\Лекции\сишка\tik tak toe\tik tak toe\bin\Debug\tik tak toe.exe.config
+C:\Users\misha\OneDrive\Рабочий стол\Лекции\сишка\tik tak toe\tik tak toe\bin\Debug\tik tak toe.exe
+C:\Users\misha\OneDrive\Рабочий стол\Лекции\сишка\tik tak toe\tik tak toe\bin\Debug\tik tak toe.pdb
+C:\Users\misha\OneDrive\Рабочий стол\Лекции\сишка\tik tak toe\tik tak toe\obj\Debug\MainWindow.baml
+C:\Users\misha\OneDrive\Рабочий стол\Лекции\сишка\tik tak toe\tik tak toe\obj\Debug\tik tak toe.g.resources
+C:\Users\misha\OneDrive\Рабочий стол\Лекции\сишка\tik tak toe\tik tak toe\obj\Debug\tik_tak_toe.Properties.Resources.resources
+C:\Users\misha\OneDrive\Рабочий стол\Лекции\сишка\tik tak toe\tik tak toe\obj\Debug\tik tak toe.csproj.GenerateResource.cache
+C:\Users\misha\OneDrive\Рабочий стол\Лекции\сишка\tik tak toe\tik tak toe\obj\Debug\tik tak toe.csproj.CoreCompileInputs.cache
+C:\Users\misha\OneDrive\Рабочий стол\Лекции\сишка\tik tak toe\tik tak toe\obj\Debug\tik tak toe.exe
+C:\Users\misha\OneDrive\Рабочий стол\Лекции\сишка\tik tak toe\tik tak toe\obj\Debug\tik tak toe.pdb
